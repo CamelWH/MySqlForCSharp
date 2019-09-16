@@ -1,0 +1,7 @@
+F:\Wanghao\_MyVSPro\MySqlForCSharp\MySqlForCSharp\bin\Debug\MySqlForCSharp.exe.config
+F:\Wanghao\_MyVSPro\MySqlForCSharp\MySqlForCSharp\bin\Debug\MySqlForCSharp.exe
+F:\Wanghao\_MyVSPro\MySqlForCSharp\MySqlForCSharp\bin\Debug\MySqlForCSharp.pdb
+F:\Wanghao\_MyVSPro\MySqlForCSharp\MySqlForCSharp\obj\Debug\MySqlForCSharp.exe
+F:\Wanghao\_MyVSPro\MySqlForCSharp\MySqlForCSharp\obj\Debug\MySqlForCSharp.pdb
+F:\Wanghao\_MyVSPro\MySqlForCSharp\MySqlForCSharp\obj\Debug\MySqlForCSharp.csprojResolveAssemblyReference.cache
+F:\Wanghao\_MyVSPro\MySqlForCSharp\MySqlForCSharp\bin\Debug\Renci.SshNet.dll
